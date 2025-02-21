@@ -21,9 +21,15 @@
     <ClCompile Include="printReverse.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="isNumber.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="printReverse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="isNumber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
